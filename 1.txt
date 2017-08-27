@@ -1,4 +1,1 @@
 this is a test txt file.
-add one line.
-
-add other line.
