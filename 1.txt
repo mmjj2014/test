@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-this is a test txt file.
-=======
-i miss you.
-dev
->>>>>>> dev
+1
